@@ -1,0 +1,105 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "employeeFName": "Sid",
+      "employeeLName": "Kadam",
+      "employeeAddress": "Pune",
+      "employeeDOB": "asas",
+      "employeeContactNo": "8600804627",
+      "employeeCity": "Pune"
+    },
+    {
+      "id": 2,
+      "employeeFName": "Chits",
+      "employeeLName": "Kadam",
+      "employeeAddress": "Pune",
+      "employeeDOB": "asas",
+      "employeeContactNo": "9876543210",
+      "employeeCity": "Mumbai"
+    }
+  ],
+  "Manager": [
+    {
+      "id": 1,
+      "registrationFName": "Sid",
+      "registrationLName": "Kadam",
+      "registrationMail": "Pune",
+      "registrationPassword": "asas",
+      "registrationAddress": "8600804627",
+      "registrationDOB": "Pune"
+    },
+    {
+      "registrationMail": "eqw@sa.sas",
+      "registrationFName": "jhkj",
+      "registrationLName": "hkjh",
+      "registrationPassword": "98778998798",
+      "registrationAddress": "dsadasd",
+      "registrationDOB": "2021-09-14",
+      "id": 2
+    },
+    {
+      "registrationMail": "sasa@sa.sas",
+      "registrationFName": "hjkh",
+      "registrationLName": "jhkj",
+      "registrationPassword": "hjkhjkhjhjk",
+      "registrationAddress": "jds",
+      "registrationDOB": "2020-08-14",
+      "id": 3
+    },
+    {
+      "registrationMail": "sasa@sa.sas",
+      "registrationFName": "uiou",
+      "registrationLName": "iu",
+      "registrationPassword": "iouiuiou",
+      "registrationAddress": "uiou",
+      "registrationDOB": "2020-08-14",
+      "id": 4
+    },
+    {
+      "registrationMail": "sid123@gmail.com",
+      "registrationFName": "asas",
+      "registrationLName": "ghjg",
+      "registrationPassword": "ghjghjggjh",
+      "registrationAddress": "ghjgjhg",
+      "registrationDOB": "2020-08-14",
+      "id": 5
+    },
+    {
+      "registrationMail": "sid123@gmaail.com",
+      "registrationFName": "hjk",
+      "registrationLName": "hhjh",
+      "registrationPassword": "ghjghjggjh",
+      "registrationAddress": "jhkj",
+      "registrationDOB": "2020-08-14",
+      "id": 6
+    },
+    {
+      "registrationMail": "sassadfsd@sgs",
+      "registrationFName": "ghj",
+      "registrationLName": "ghjgj",
+      "registrationPassword": "ghjgjhgjhgj",
+      "registrationAddress": "ghjghjg",
+      "registrationDOB": "2020-08-14",
+      "id": 7
+    },
+    {
+      "registrationMail": "jjhjk@sas",
+      "registrationFName": "hjkh",
+      "registrationLName": "hkjh",
+      "registrationPassword": "jhkjhjkhh",
+      "registrationAddress": "hjkhjkh",
+      "registrationDOB": "2020-08-14",
+      "id": 8
+    },
+    {
+      "registrationMail": "tgjhbb@fsd.fs",
+      "registrationFName": "ghj",
+      "registrationLName": "gjhg",
+      "registrationPassword": "ghjghjgjhgjh",
+      "registrationAddress": "yutuyt",
+      "registrationDOB": "2020-08-14",
+      "id": 9
+    }
+  ]
+}

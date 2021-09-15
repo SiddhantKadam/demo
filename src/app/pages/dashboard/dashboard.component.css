@@ -1,0 +1,131 @@
+.card-header button
+{
+    border: 2px solid #fff;
+    border-radius:5px;
+}
+.fa-pencil-square-o
+{
+    font-size:23px
+}
+.card-header .add-btn
+{
+    float: right
+}
+.card-header .heading-span
+{
+    vertical-align: sub;
+}
+
+/* ==== */
+#login {
+    background: url("/assets/images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .divGroup {
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .inputCustomStyle {
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background-color: #00000047;
+    color: white;
+    width: 100%;
+    border: 1px solid #fff;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    border-radius: 5px;
+  }
+  .inputCustomStyle:hover {
+    border: 1px solid white;
+  }
+  .inputCustomStyle:focus {
+    border: 1px solid blue;
+  }
+  .glass {
+    position: relative;
+    box-sizing: border-box;
+    padding: 0 40px 40px 40px;
+    border: 2px solid rgba(0, 0, 0, 0.15);
+    border-radius: 25px 25px 25px 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25), inset 0 0 2px 0px white;
+    background: rgba(0, 0, 0, 0.0125);
+    backdrop-filter: blur(13px);
+    -webkit-backdrop-filter: blur(3px);
+  }
+  .glass:hover {
+    box-shadow: 0 0 10px #0f0, 0 0 20px #0f0, 0 0 30px #0f0, 0 0 40px #0f0,
+      0 0 50px #0f0;
+    animation: logobox 5s linear infinite;
+  }
+  
+  @keyframes logobox {
+    0% {
+      filter: hue-rotate(0deg);
+    }
+  
+    100% {
+      filter: hue-rotate(360deg);
+    }
+  }
+  
+  .glassBtn {
+    /* position: relative; */
+    background-color: #eaac3ba1;
+    height: 40px;
+    width: 100px;
+    border: none;
+    /* display: block; */
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.2s ease;
+  }
+  
+  .GlassButtons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .welcomeHeader {
+    color: whitesmoke;
+    font-family: "Roboto", sans-serif;
+  }
+  .password {
+    position: relative;
+    z-index: 99999;
+    color: white;
+    float: right;
+    margin-right: 10px;
+    margin-top: -35px;
+    cursor: pointer;
+  }
+  
+  .account-link {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    left: 0;
+  }
+  
+  .account-link span {
+    color: rgb(103, 103, 221);
+    cursor: pointer;
+  }
+  
